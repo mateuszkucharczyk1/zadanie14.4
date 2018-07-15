@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+div {
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+	height: 400px;
+	width: 300px;
+	object-fit: cover;
+}
